@@ -54,6 +54,6 @@ App runs fully live on a production Vercel URL.
 
 ### 1️⃣ Clone Project
 ```sh
-git clone https://github.com/your-username/smart-bookmark-app.git
+git clone https://github.com/gour8620/Smart-Bookmark-App.git
 cd smart-bookmark-app
 "# Smart-Bookmark-App" 
